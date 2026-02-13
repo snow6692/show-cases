@@ -1,109 +1,118 @@
-Course Platform – Full-Stack Learning Management System
+# Course Platform – Full-Stack Learning Management System
+
+![Platform Preview](./screenshots/hero.png)
 
 A modern, scalable online learning platform built to deliver high-quality courses with advanced analytics, secure payments, and gamified assessments.
 
-Live Demo: https://fy.sa
+**Live Demo:** https://fy.sa
 
-Key Highlights
+---
 
-Complete Learning Management System (LMS)
+## Key Highlights
 
-Integrated Payments with Apple Pay (Moyasar)
+- Complete Learning Management System (LMS)
+- Integrated Payments with Apple Pay (Moyasar)
+- Advanced Analytics Dashboard
+- Gamified Quiz Engine
+- High-performance Video Streaming (Bunny)
+- Secure Authentication and Role Management
+- Fully Responsive User Interface
 
-Advanced Analytics Dashboard
+---
 
-Gamified Quiz Engine
+## Tech Stack
 
-High-performance Video Streaming (Bunny)
+- **Framework:** Next.js 15 (App Router)
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS, Radix UI, Framer Motion
+- **State Management:** TanStack Query
+- **Database:** PostgreSQL with Prisma
+- **Authentication:** Better Auth, Google OAuth, WhatsApp OTP (Twilio)
+- **Forms:** React Hook Form and Zod
+- **Video Streaming:** Bunny Stream
+- **Charts & Utilities:** Recharts, date-fns, Sonner
 
-Secure Authentication and Role Management
+---
 
-Fully Responsive User Interface
+## Screenshots
 
-Tech Stack
+### Landing Page
 
-Framework: Next.js 15 (App Router)
+![Hero](./screenshots/hero.png)
 
-Language: TypeScript
+### Courses & Lessons
 
-Styling: Tailwind CSS, Radix UI, Framer Motion
+![Courses](./screenshots/courses.png)
+![Course Page](./screenshots/course-page.png)
+![Lesson](./screenshots/lesson.png)
+![Videos](./screenshots/videos.png)
 
-State Management: TanStack Query
+### Student Dashboard
 
-Database: PostgreSQL with Prisma
+![Student Dashboard](./screenshots/student-dashboard.png)
+![Profile](./screenshots/profile.png)
+![Folders](./screenshots/folders.png)
+![Quizzes](./screenshots/quizzes.png)
 
-Authentication: Better Auth, Google OAuth, WhatsApp OTP (Twilio)
+### Admin Dashboard
 
-Forms: React Hook Form and Zod
+![Admin Main](./screenshots/admin.png)
+![Admin Courses](./screenshots/admin-course.png)
+![Admin Courses 2](./screenshots/admin-course2.png)
+![Students](./screenshots/students.png)
 
-Video Streaming: Bunny Stream
+---
 
-Charts and Utilities: Recharts, date-fns, Sonner
+## Core Features
 
-Core Features
-Course Management
+### Course Management
 
-Create, edit, publish, and archive courses
+- Create, edit, publish, and archive courses
+- Drag and drop curriculum builder
+- Discount and coupon system
+- Draft and publish workflow
 
-Drag and drop curriculum builder
+### Video and Lessons
 
-Discount and coupon system
+- Secure video streaming
+- Free preview lessons
+- Learning progress tracking
+- Rich lesson content support
 
-Draft and publish workflow
+### Quiz and Assessment System
 
-Video and Lessons
+- Multi-level quizzes (Course, Chapter, Lesson)
+- Smart performance-based feedback system
+- Media-supported question bank
+- Attempt history and analytics
 
-Secure video streaming
+### Student Experience
 
-Free preview lessons
+- Personalized dashboard
+- Favorites and revision folders
+- Custom exam builder
+- Enrollment and payment tracking
+- Detailed learning statistics
 
-Learning progress tracking
+### Admin Dashboard
 
-Rich lesson content support
+- Centralized content management
+- Role-based access control
+- User and course analytics
+- Media management
 
-Quiz and Assessment System
+---
 
-Multi-level quizzes (Course, Chapter, Lesson)
+## Project Impact
 
-Smart performance-based feedback system
+- Designed for scalable multi-course platforms
+- Optimized for performance and SEO
+- Production-ready system architecture
+- Supports high-traffic and media-rich applications
 
-Media-supported question bank
+---
 
-Attempt history and analytics
+## Author
 
-Student Experience
-
-Personalized dashboard
-
-Favorites and revision folders
-
-Custom exam builder
-
-Enrollment and payment tracking
-
-Detailed learning statistics
-
-Admin Dashboard
-
-Centralized content management
-
-Role-based access control
-
-User and course analytics
-
-Media management
-
-Project Impact
-
-Designed for scalable multi-course platforms
-
-Optimized for performance and SEO
-
-Production-ready system architecture
-
-Supports high-traffic and media-rich applications
-
-Author
-
-Developed by Ahmed Hamada
+Developed by **Ahmed Hamada**  
 Open for freelance and full-time opportunities
