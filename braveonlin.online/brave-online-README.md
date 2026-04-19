@@ -66,11 +66,7 @@ This project follows a **monorepo** structure:
 - **Device Recovery** — Student submits a recovery request; Admin approves/rejects.
 - Admins and Teachers are exempt from device restrictions.
 
-### 🌐 Bilingual Support
-- Full **Arabic (default)** and **English** interface.
-- Shared i18n translation files (`ar.json`, `en.json`) in the shared folder.
 
----
 
 ##  Tech Stack
 
